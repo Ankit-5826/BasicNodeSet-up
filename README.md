@@ -56,6 +56,8 @@ Install Prettier
 
     npm install --save-dev prettier
 
+    prettier --write
+
 Create .prettierrc and add rules
 
 Example rules:
