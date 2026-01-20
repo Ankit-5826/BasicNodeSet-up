@@ -117,7 +117,7 @@ install dotenv lib
 
 - Store environment-specific values
 
--Load variables using **dotenv.config()**
+- Load variables using **dotenv.config()** -> dotenv.config({ path: "./.env" });
 
 ## 7. Project Structure
 
